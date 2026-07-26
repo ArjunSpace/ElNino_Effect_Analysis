@@ -1,0 +1,206 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,Is_DischargeDataAvailable,RL_of_zeroGauge,MeanSeaLevel,Data Acquisition Time,River Water Level Telemetry Hourly (meter)
+1,Bhutaram,Telangana SW,36,Telangana,687,BHUPALPALLY,BHUPALPALLY,-,-,Godavari,Godavari,Wardha,-,-,-,18.35305556,80.40611111,No,0,84.00,01-10-2012 06:00,0.521
+2,Bhutaram,Telangana SW,36,Telangana,687,BHUPALPALLY,BHUPALPALLY,-,-,Godavari,Godavari,Wardha,-,-,-,18.35305556,80.40611111,No,0,84.00,01-10-2012 07:00,0.52
+3,Bhutaram,Telangana SW,36,Telangana,687,BHUPALPALLY,BHUPALPALLY,-,-,Godavari,Godavari,Wardha,-,-,-,18.35305556,80.40611111,No,0,84.00,01-10-2012 08:00,0.515
+4,Koulasanala,Telangana SW,36,Telangana,685,KAMAREDDY,Bichkunda ,-,-,Godavari,Godavari,Wardha,-,-,-,18.35305278,77.71206667,No,0,377.00,01-10-2012 06:00,2.214
+5,Koulasanala,Telangana SW,36,Telangana,685,KAMAREDDY,Bichkunda ,-,-,Godavari,Godavari,Wardha,-,-,-,18.35305278,77.71206667,No,0,377.00,01-10-2012 07:00,2.202
+6,Koulasanala,Telangana SW,36,Telangana,685,KAMAREDDY,Bichkunda ,-,-,Godavari,Godavari,Wardha,-,-,-,18.35305278,77.71206667,No,0,377.00,01-10-2012 08:00,2.206
+7,Mandamarri,Telangana SW,36,Telangana,684,MANCHERIAL,MANCHERIAL,-,-,Godavari,Godavari,Wardha,-,-,-,19.04838611,79.44108056,No,0,192.00,01-01-2000 00:30,0.499
+8,Mandamarri,Telangana SW,36,Telangana,684,MANCHERIAL,MANCHERIAL,-,-,Godavari,Godavari,Wardha,-,-,-,19.04838611,79.44108056,No,0,192.00,01-01-2000 00:45,0.499
+9,Mandamarri,Telangana SW,36,Telangana,684,MANCHERIAL,MANCHERIAL,-,-,Godavari,Godavari,Wardha,-,-,-,19.04838611,79.44108056,No,0,192.00,01-01-2000 01:00,0.499
+10,Mandamarri,Telangana SW,36,Telangana,684,MANCHERIAL,MANCHERIAL,-,-,Godavari,Godavari,Wardha,-,-,-,19.04838611,79.44108056,No,0,192.00,01-01-2000 01:15,0.499
+11,Mandamarri,Telangana SW,36,Telangana,684,MANCHERIAL,MANCHERIAL,-,-,Godavari,Godavari,Wardha,-,-,-,19.04838611,79.44108056,No,0,192.00,01-01-2000 01:30,0.499
+12,Mandamarri,Telangana SW,36,Telangana,684,MANCHERIAL,MANCHERIAL,-,-,Godavari,Godavari,Wardha,-,-,-,19.04838611,79.44108056,No,0,192.00,01-10-2012 06:00,0.119
+13,Masaipet,Telangana SW,36,Telangana,513,MEDAK,MEDAK,-,-,Godavari,Godavari,Wardha,-,-,-,17.86888889,78.47194444,No,0,489.00,01-10-2012 06:00,0
+14,Masaipet,Telangana SW,36,Telangana,513,MEDAK,MEDAK,-,-,Godavari,Godavari,Wardha,-,-,-,17.86888889,78.47194444,No,0,489.00,01-10-2012 07:00,0
+15,Masaipet,Telangana SW,36,Telangana,513,MEDAK,MEDAK,-,-,Godavari,Godavari,Wardha,-,-,-,17.86888889,78.47194444,No,0,489.00,01-10-2012 13:00,0
+16,Masaipet,Telangana SW,36,Telangana,513,MEDAK,MEDAK,-,-,Godavari,Godavari,Wardha,-,-,-,17.86888889,78.47194444,No,0,489.00,01-10-2012 19:00,0
+17,Mathadivagu Projecct,Telangana SW,36,Telangana,501,ADILABAD,TALLAMADUGU,-,-,Godavari,Godavari,Wardha,-,-,-,19.70307778,78.51485833,No,0,276.90,01-01-2000 00:15,30
+18,Mathadivagu Projecct,Telangana SW,36,Telangana,501,ADILABAD,TALLAMADUGU,-,-,Godavari,Godavari,Wardha,-,-,-,19.70307778,78.51485833,No,0,276.90,01-01-2000 00:30,27.432
+19,Mathadivagu Projecct,Telangana SW,36,Telangana,501,ADILABAD,TALLAMADUGU,-,-,Godavari,Godavari,Wardha,-,-,-,19.70307778,78.51485833,No,0,276.90,01-01-2000 00:45,28.778
+20,Mathadivagu Projecct,Telangana SW,36,Telangana,501,ADILABAD,TALLAMADUGU,-,-,Godavari,Godavari,Wardha,-,-,-,19.70307778,78.51485833,No,0,276.90,01-01-2000 01:00,29.825
+21,Mathadivagu Projecct,Telangana SW,36,Telangana,501,ADILABAD,TALLAMADUGU,-,-,Godavari,Godavari,Wardha,-,-,-,19.70307778,78.51485833,No,0,276.90,01-01-2000 01:15,26.238
+22,Modikuntavagu,Telangana SW,36,Telangana,687,BHUPALPALLY,BHUPALPALLY,-,-,Godavari,Godavari,Wardha,-,-,-,18.53888889,80.42888889,No,0,84.00,27-06-2010 14:00,0
+23,Nagulapeta,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.78011944,78.70663889,No,0,583.00,01-10-2012 06:00,0
+24,Nagulapeta,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.78011944,78.70663889,No,0,583.00,01-10-2012 07:00,0
+25,Nagulapeta,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.78011944,78.70663889,No,0,583.00,01-10-2012 08:00,0
+26,Nagulapeta,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.78011944,78.70663889,No,0,583.00,01-10-2012 09:00,0
+27,Nagulapeta,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.78011944,78.70663889,No,0,583.00,01-10-2012 10:00,0
+28,Nagulapeta,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.78011944,78.70663889,No,0,583.00,01-10-2012 11:00,0
+29,Nagulapeta,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.78011944,78.70663889,No,0,583.00,01-10-2012 12:00,0
+30,Nagulapeta,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.78011944,78.70663889,No,0,583.00,01-10-2012 13:00,0
+31,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 06:00,0
+32,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 07:00,0
+33,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 08:00,0
+34,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 09:00,0
+35,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 10:00,0
+36,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 11:00,0.656
+37,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 12:00,0.659
+38,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 13:00,0.662
+39,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 14:00,0.662
+40,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 15:00,0.662
+41,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 16:00,0
+42,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 17:00,0
+43,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 18:00,0
+44,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 19:00,0
+45,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 20:00,0
+46,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 21:00,0
+47,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 22:00,0
+48,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,01-10-2012 23:00,0
+49,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 00:00,0
+50,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 00:15,0.666
+51,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 00:30,0.665
+52,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 00:45,0.659
+53,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 00:59,0.653
+54,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 01:00,0
+55,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 01:15,0.668
+56,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 01:30,0.648
+57,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 01:45,0.667
+58,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 01:59,0.666
+59,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 02:00,0
+60,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 02:15,0.667
+61,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 02:30,0.666
+62,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 02:45,0.665
+63,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 02:59,0.666
+64,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 03:00,0
+65,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 03:15,0.661
+66,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 03:30,0.666
+67,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 03:45,0.661
+68,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 03:59,0.665
+69,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 04:00,0
+70,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 04:15,0.656
+71,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 04:30,0.661
+72,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 04:45,0.662
+73,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 04:59,0.661
+74,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 05:00,0
+75,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 05:15,0.662
+76,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 05:30,0.66
+77,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 05:45,0.659
+78,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 05:59,0.661
+79,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 06:00,0
+80,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 06:15,0.66
+81,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 06:30,0.658
+82,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 06:45,0.644
+83,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 06:59,0.646
+84,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 07:00,0
+85,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 07:15,0.656
+86,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 07:30,0.655
+87,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 07:45,0.654
+88,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 07:59,0.653
+89,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 08:00,0
+90,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 08:15,0.655
+91,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 08:30,0.655
+92,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 08:45,0.655
+93,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 08:59,0.656
+94,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 09:00,0
+95,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 09:15,0.657
+96,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 09:30,0.658
+97,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 09:45,0.659
+98,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 09:59,0.658
+99,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 10:00,0
+100,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 10:15,0.659
+101,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 10:30,0.659
+102,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 10:45,0.659
+103,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 10:59,0.659
+104,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 11:00,0
+105,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 11:15,0.662
+106,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 11:30,1.118
+107,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 11:45,0.662
+108,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 11:59,0.662
+109,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 12:15,0.662
+110,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 12:30,0.664
+111,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 12:45,0.665
+112,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 12:59,0.666
+113,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 13:15,0.666
+114,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 13:30,0.666
+115,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 13:45,0.666
+116,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 13:59,0.666
+117,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 14:15,0.663
+118,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 14:30,0.666
+119,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 14:45,0.666
+120,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 14:59,0.666
+121,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 15:15,0.666
+122,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 15:30,0.666
+123,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 15:45,0.666
+124,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 15:59,0.666
+125,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 16:15,0.666
+126,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 16:30,0.666
+127,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 16:45,0.664
+128,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 16:59,0.663
+129,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 17:00,0
+130,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 17:15,0.666
+131,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 17:30,0.662
+132,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 17:45,0.664
+133,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 18:00,0
+134,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 18:15,0.666
+135,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 18:30,0.666
+136,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 18:45,0.666
+137,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 19:00,0
+138,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 19:15,0.666
+139,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 19:30,0.663
+140,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 19:45,0.662
+141,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 20:00,0
+142,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 20:15,0.662
+143,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 20:30,0.666
+144,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 20:45,0.666
+145,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 21:00,0
+146,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 21:15,0.662
+147,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 21:30,0.664
+148,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 21:45,0.666
+149,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 22:00,0
+150,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 22:15,0.665
+151,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 22:30,0.663
+152,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 22:45,0.662
+153,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 23:00,0
+154,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 23:15,0.662
+155,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 23:30,0.662
+156,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,02-10-2012 23:45,0.662
+157,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 00:00,0
+158,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 00:15,0.659
+159,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 00:30,0.659
+160,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 00:45,0.659
+161,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 00:59,0.644
+162,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 01:15,0.646
+163,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 01:30,0.65
+164,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 01:45,0.648
+165,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 01:59,0.655
+166,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 02:15,0.654
+167,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 02:30,0.635
+168,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 02:45,0.651
+169,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 02:59,0.643
+170,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 03:15,0.653
+171,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 03:30,0.644
+172,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 03:45,0.636
+173,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 03:59,0.652
+174,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 04:15,0.635
+175,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 04:30,0.632
+176,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 04:45,0.638
+177,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 04:59,0.641
+178,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,03-10-2012 05:15,0.641
+179,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,21-04-2020 23:15,0
+180,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,21-04-2020 23:30,0
+181,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,21-04-2020 23:45,0
+182,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,22-04-2020 00:00,0
+183,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,22-04-2020 00:15,0
+184,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,22-04-2020 00:30,0
+185,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,22-04-2020 00:45,0
+186,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,22-04-2020 01:00,0
+187,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,22-04-2020 01:15,0
+188,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,22-04-2020 01:30,0
+189,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,22-04-2020 01:45,0
+190,Nallavagu,Telangana SW,36,Telangana,685,KAMAREDDY,Pitlam ,-,-,Godavari,Godavari,Wardha,-,-,-,18.20346389,77.86576667,No,0,416.00,29-05-2020 09:00,0.776
+191,Sri Komaram Bheem Project,Telangana SW,36,Telangana,501,ADILABAD,ASIFABAD,-,-,Godavari,Godavari,Wardha,-,-,-,19.41253056,79.29257222,No,0,185.25,01-10-2012 06:00,192.369
+192,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 06:00,7.599
+193,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 07:00,7.186
+194,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 08:00,7.599
+195,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 09:00,7.599
+196,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 10:00,0.022
+197,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 10:15,0.057
+198,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 10:30,7.599
+199,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 10:45,0.026
+200,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 11:00,7.599
+201,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 11:15,0
+202,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 11:30,0.042
+203,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 11:45,0.074
+204,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 12:00,0
+205,Yousufnagar,Telangana SW,36,Telangana,681,JAGITYAL,Korutla,-,-,Godavari,Godavari,Wardha,-,-,-,18.87583333,78.67055556,No,0,656.00,01-10-2012 12:15,0
